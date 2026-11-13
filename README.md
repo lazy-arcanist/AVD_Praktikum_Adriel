@@ -13,8 +13,8 @@ Repository ini berisi **Praktikum 1-6** (dataset Nusantara Mart) dan **Tugas Pro
 ## 🔗 Notebook
 | Tugas | Buka di Colab | Dataset |
 |---|---|---|
-| Praktikum 1-6 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/Praktikum1-6_AVD_Nusantara_Mart_Terjawab.ipynb) | `penjualan_nusantaramart.csv` |
-| Tugas Proyek | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/Proyek_AVD_Kaggle.ipynb) | `kaggle_chess-text_leaderboard.csv` |
+| Praktikum 1-6 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vKfQ1ZZOes7M-kgym5EwUGxkd4raBQTP?usp=sharing) | `penjualan_nusantaramart.csv` |
+| Tugas Proyek | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16Xg4r9ReY8sxOSHeMZRJ8NiXWueWMNjK?usp=sharing) | `kaggle_chess-text_leaderboard.csv` |
 
 ## 📁 Isi Repository
 ```
