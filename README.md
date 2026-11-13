@@ -6,9 +6,9 @@ Repository ini berisi **Praktikum 1-6** (dataset Nusantara Mart) dan **Tugas Pro
 ## 👤 Identitas
 | | |
 |---|---|
-| **Nama / Kelompok** | ........ |
-| **Kelas** | XI RPL ... |
-| **No. Absen** | ........ |
+| **Nama** | Adriel Winston Tjahja |
+| **Kelas** | XI RPL 8 |
+| **No. Absen** | 2 |
 
 ## 🔗 Notebook
 | Tugas | Buka di Colab | Dataset |
