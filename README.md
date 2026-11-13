@@ -3,12 +3,23 @@
 Koding dan Kecerdasan Artifisial (KKA) – Rekayasa Perangkat Lunak, Fase F Kelas XI.
 Repository ini berisi **Praktikum 1-6** (dataset Nusantara Mart) dan **Tugas Proyek** (dataset Kaggle) dengan Python (Pandas, Matplotlib, Seaborn).
 
-## 👤 Identitas
+## 👤 Identitas Individu
 | | |
 |---|---|
 | **Nama** | Adriel Winston Tjahja |
 | **Kelas** | XI RPL 8 |
 | **No. Absen** | 2 |
+
+## 👥 Identitas Kelompok
+|   |   |
+|---|---|
+| Nama Kelompok | Kelompok 5 |
+| Kelas | XI RPL 8 |
+| Anggota |  Abdurrahman Al Ghazi (No. Absen 1)|
+|         | Adriel Winston Tjahja (No. Absen 2) |  
+|         | Callista Filza Farzana S. (No. Absen 9) |
+|         | Djibril Garudea Fairuz (No. Absen 11) |
+| Tanggal Pengumpulan | 13 - 11 - 2026
 
 ## 🔗 Notebook
 | Tugas | Buka di Colab | Dataset |
