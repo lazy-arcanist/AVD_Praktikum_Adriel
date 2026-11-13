@@ -68,4 +68,4 @@ Menganalisis 42 model AI pada benchmark *chess-text*. *Produk* = model AI, *perf
 3. Pilih **Runtime → Run all**.
 
 ## 🤖 Penggunaan AI
-AI digunakan sebagai alat bantu belajar (menyusun format notebook, kode, dan insight). Penjelasannya ada di bagian **Penjelasan Penggunaan AI** pada masing-masing notebook.
+AI digunakan sebagai alat bantu belajar (menyusun format notebook, kode, insight, dan readme). Penjelasannya ada di bagian pada masing-masing notebook.
